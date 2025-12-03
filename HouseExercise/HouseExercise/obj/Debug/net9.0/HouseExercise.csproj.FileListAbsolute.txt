@@ -1,0 +1,14 @@
+D:\C#\HouseExercise\HouseExercise\bin\Debug\net9.0\HouseExercise.exe
+D:\C#\HouseExercise\HouseExercise\bin\Debug\net9.0\HouseExercise.deps.json
+D:\C#\HouseExercise\HouseExercise\bin\Debug\net9.0\HouseExercise.runtimeconfig.json
+D:\C#\HouseExercise\HouseExercise\bin\Debug\net9.0\HouseExercise.dll
+D:\C#\HouseExercise\HouseExercise\bin\Debug\net9.0\HouseExercise.pdb
+D:\C#\HouseExercise\HouseExercise\obj\Debug\net9.0\HouseExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\HouseExercise\HouseExercise\obj\Debug\net9.0\HouseExercise.AssemblyInfoInputs.cache
+D:\C#\HouseExercise\HouseExercise\obj\Debug\net9.0\HouseExercise.AssemblyInfo.cs
+D:\C#\HouseExercise\HouseExercise\obj\Debug\net9.0\HouseExercise.csproj.CoreCompileInputs.cache
+D:\C#\HouseExercise\HouseExercise\obj\Debug\net9.0\HouseExercise.dll
+D:\C#\HouseExercise\HouseExercise\obj\Debug\net9.0\refint\HouseExercise.dll
+D:\C#\HouseExercise\HouseExercise\obj\Debug\net9.0\HouseExercise.pdb
+D:\C#\HouseExercise\HouseExercise\obj\Debug\net9.0\HouseExercise.genruntimeconfig.cache
+D:\C#\HouseExercise\HouseExercise\obj\Debug\net9.0\ref\HouseExercise.dll

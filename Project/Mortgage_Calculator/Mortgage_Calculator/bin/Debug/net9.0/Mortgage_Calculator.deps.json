@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Mortgage_Calculator/1.0.0": {
+        "runtime": {
+          "Mortgage_Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mortgage_Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

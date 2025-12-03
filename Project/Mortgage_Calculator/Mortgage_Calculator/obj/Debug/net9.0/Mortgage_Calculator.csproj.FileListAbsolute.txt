@@ -1,0 +1,14 @@
+D:\C#\Mortgage_Calculator\Mortgage_Calculator\bin\Debug\net9.0\Mortgage_Calculator.exe
+D:\C#\Mortgage_Calculator\Mortgage_Calculator\bin\Debug\net9.0\Mortgage_Calculator.deps.json
+D:\C#\Mortgage_Calculator\Mortgage_Calculator\bin\Debug\net9.0\Mortgage_Calculator.runtimeconfig.json
+D:\C#\Mortgage_Calculator\Mortgage_Calculator\bin\Debug\net9.0\Mortgage_Calculator.dll
+D:\C#\Mortgage_Calculator\Mortgage_Calculator\bin\Debug\net9.0\Mortgage_Calculator.pdb
+D:\C#\Mortgage_Calculator\Mortgage_Calculator\obj\Debug\net9.0\Mortgage_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Mortgage_Calculator\Mortgage_Calculator\obj\Debug\net9.0\Mortgage_Calculator.AssemblyInfoInputs.cache
+D:\C#\Mortgage_Calculator\Mortgage_Calculator\obj\Debug\net9.0\Mortgage_Calculator.AssemblyInfo.cs
+D:\C#\Mortgage_Calculator\Mortgage_Calculator\obj\Debug\net9.0\Mortgage_Calculator.csproj.CoreCompileInputs.cache
+D:\C#\Mortgage_Calculator\Mortgage_Calculator\obj\Debug\net9.0\Mortgage_Calculator.dll
+D:\C#\Mortgage_Calculator\Mortgage_Calculator\obj\Debug\net9.0\refint\Mortgage_Calculator.dll
+D:\C#\Mortgage_Calculator\Mortgage_Calculator\obj\Debug\net9.0\Mortgage_Calculator.pdb
+D:\C#\Mortgage_Calculator\Mortgage_Calculator\obj\Debug\net9.0\Mortgage_Calculator.genruntimeconfig.cache
+D:\C#\Mortgage_Calculator\Mortgage_Calculator\obj\Debug\net9.0\ref\Mortgage_Calculator.dll
